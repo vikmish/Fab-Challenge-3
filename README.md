@@ -1,5 +1,5 @@
 ### Fab Challenge 3
-# Ethical Tool or artefact to Interact and Monitor Relevant Data
+# Ethical Tool/artefact to Interact + Monitor Relevant Data
 The challenge comprised the developement from the Duckweed Incubator from Term I to a Distributed & Independent Monitoring Sysytem.
 
 -Miro Interests-
